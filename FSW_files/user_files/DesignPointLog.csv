@@ -1,0 +1,16 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: FSW
+# Creation date: 03/25/2022 19:48:56
+# 
+# 03/25/2022 19:48:56
+# The parameters defined in the project are:
+# ,P1 - weldforce-op [N],P2 - lateralforce-op [N],P3 - thrustforce-op [N],P4 - torque-op [J]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 0,-2.8465738E-06,-1.9543336E-06,-2.5618294E-05,-1.8713736E-07
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/25/2022 19:51:47
+# 
